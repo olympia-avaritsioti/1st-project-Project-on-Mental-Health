@@ -1,7 +1,8 @@
 # First-project
 Dataset source:https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset/data
 
-Team:Avaritsioti Olympia, Zachos Panos, Zervos Theologos
+Team:Mental Health Buddies
+Avaritsioti Olympia, Zachos Panos, Zervos Theologos
 
 Scope: 1st Project of Bootcamp Data Science at Big Blue Data Academy
 
